@@ -44,3 +44,9 @@ const weekDays = new WeekDays('eu');
 // Aunque creemos más objetos, siempre estará en Euskera
 
 console.log(weekDays.get());
+// "Astelehena", "Asteartea", "Asteazkena", "Osteguna", "Ostirala", "Larunbata", "Igandea"
+
+const weekDaysEs = new WeekDays('es');
+// Se carga con Euskera aunque le digamos con "es" (Castellano)
+
+console.log(weekDaysEs.get());
