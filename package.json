@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns-js-ts",
+  "version": "1.0.0",
+  "description": "Héctor León - Udemy Course - Design Patterns in Javascript and Typescript",
+  "main": "index.js",
+  "repository": "git@github.com:mugan86/design-patterns-js-ts.git",
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
